@@ -1,6 +1,6 @@
 # Escape-2D
 
-Pixel based java RPG game I programmed for Java project during 7th semester in University.
+Pixel based java RPG game I programmed for Java project during 6th semester in University.
 The game storyline is based on a person who somehow trapped himself in an abandoned house during zombie apocalypse. Now he has to move around the maze and find keycards to pass through different doors to find the exit.
 
 ### Screenshots of the UI
